@@ -9,7 +9,7 @@ export default function Home() {
         <div className="px-6 pb-6">
           {/* Avatar Image */}
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijdX3UZUoc_YwsuIcNgcnKe5TfBHj-B1LMC3AugFyQw&s"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfti5sIOU0v2JnGx5XfJGJ_iCH67XoQf_mEJZxQ4fC3Q&s"
             alt="Benedict Pagasartonga"
             className="w-20 h-20 rounded-full mx-auto -mt-10 mb-3 object-cover border-4 border-white shadow-sm"
           />
